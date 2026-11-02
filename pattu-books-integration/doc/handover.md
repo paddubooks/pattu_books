@@ -50,3 +50,9 @@ Final regression verification: content validation returned zero errors; all 15 u
 Replaced four sample titles and prices with Nila at Paatti’s Home (ages 4–6). The responsive feature includes the supplied front cover and an expandable front/back preview. Category filters retain Storybooks and Activity books, with an explicit empty state for Activity books. Confirm pricing and add the existing WhatsApp configuration before enabling direct ordering.
 
 The Learn welcome uses a normal-flow curiosity card with separate number and shape tiles, replacing the overlapping garden decoration. Saved progress and Continue learning remain intact. Books source lives in dist/index.html and dist/assets; npm run build regenerates dist/learn. Learning content and coverage are unchanged.
+
+
+### Pre-order update
+Nila at Paatti’s Home is not released yet. It appears in both Storybooks and Activity books, with a Pre-order now button. Book and contact buttons open WhatsApp at +94 70 185 6427 (wa.me/94701856427), with pre-filled enquiry text. No message is sent automatically. Price and release date are not specified.
+
+Verification: content validation, all 15 unit tests, all 45 browser tests, and all 3 GitHub Pages tests passed. The Pages build was verified with /paddu_books and 759 direct routes. Updated the obsolete four-sample-book hosting assertion to cover the single pre-order title, dual categories and WhatsApp destinations.

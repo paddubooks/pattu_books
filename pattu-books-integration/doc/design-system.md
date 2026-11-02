@@ -42,3 +42,7 @@ Replaced four sample titles and prices with Nila at Paatti’s Home (ages 4–6)
 The Learn welcome uses a normal-flow curiosity card with separate number and shape tiles, replacing the overlapping garden decoration. Saved progress and Continue learning remain intact. Books source lives in dist/index.html and dist/assets; npm run build regenerates dist/learn. Learning content and coverage are unchanged.
 
 The Books reading promise uses a lavender callout, a yellow book illustration, and purple/green emphasis on the two quoted phrases. It stacks below the section title on smaller screens. Verified at 320, 390, 768 and 1365 pixels without horizontal overflow.
+
+
+### Pre-order update
+Nila at Paatti’s Home is not released yet. It appears in both Storybooks and Activity books, with a Pre-order now button. Book and contact buttons open WhatsApp at +94 70 185 6427 (wa.me/94701856427), with pre-filled enquiry text. No message is sent automatically. Price and release date are not specified.

@@ -24,7 +24,7 @@ Open http://127.0.0.1:4173. The build generates dist/learn and preserves the Boo
 
 ## Book showcase
 
-The Books shelf features the available title, **Nila at Paatti’s Home**, using supplied front and front/back cover images. Storybooks shows this title; Activity books shows an empty collection message. Pricing is intentionally omitted until confirmed; enquiries use the existing contact setup.
+The Books shelf features the upcoming title, **Nila at Paatti’s Home**, using supplied front and front/back cover images. The title appears in both Storybooks and Activity books. Pre-orders and enquiries open WhatsApp at +94 70 185 6427 with a prepared message. The book is not released yet; pricing and release dates are available by enquiry.
 
 ## What is included
 
