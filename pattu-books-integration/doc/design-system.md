@@ -40,3 +40,5 @@ On phones, Search and filters is an expandable disclosure so the first activity 
 Replaced four sample titles and prices with Nila at Paatti’s Home (ages 4–6). The responsive feature includes the supplied front cover and an expandable front/back preview. Category filters retain Storybooks and Activity books, with an explicit empty state for Activity books. Confirm pricing and add the existing WhatsApp configuration before enabling direct ordering.
 
 The Learn welcome uses a normal-flow curiosity card with separate number and shape tiles, replacing the overlapping garden decoration. Saved progress and Continue learning remain intact. Books source lives in dist/index.html and dist/assets; npm run build regenerates dist/learn. Learning content and coverage are unchanged.
+
+The Books reading promise uses a lavender callout, a yellow book illustration, and purple/green emphasis on the two quoted phrases. It stacks below the section title on smaller screens. Verified at 320, 390, 768 and 1365 pixels without horizontal overflow.
