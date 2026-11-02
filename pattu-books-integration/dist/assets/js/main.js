@@ -29,12 +29,37 @@ motionToggle?.addEventListener('click', () => {
   motionToggle.setAttribute('aria-pressed', String(scenePaused));
   motionToggle.textContent = scenePaused ? 'Play animations ▷' : 'Pause animations Ⅱ';
 });
-const books = [{title:'Nila at Paatti’s Home',types:['story','activity'],age:'4–6',description:'Join Nila, Paatti and Pattu for a little maths adventure. Count, compare, find shapes and make patterns in the world around you.'}];
+const books = [{title:'Nila at Paatti’s Home',images:[{src:'assets/images/nila-cover.png',alt:'Nila at Paatti’s Home — illustrated front cover'},{src:'assets/images/nila-front-back.png',alt:'Front and back of Nila at Paatti’s Home'}],types:['story','activity'],age:'4–6',description:'Join Nila, Paatti and Pattu for a little maths adventure. Count, compare, find shapes and make patterns in the world around you.'}];
 const grid=document.querySelector('#book-grid');
+function gallery(book) {
+ const multiple=book.images.length>1;
+ return `<div class="book-gallery" role="group" ${multiple?'aria-roledescription="carousel"':''} aria-label="${book.title} images" data-slide="0">
+ <div class="book-slides">${book.images.map((image,index)=>`<img class="featured-cover" src="${image.src}" alt="${image.alt}" width="1448" height="1086" loading="lazy" ${index?'hidden':''}>`).join('')}</div>
+ ${multiple?`<div class="gallery-controls"><button type="button" class="gallery-arrow" data-direction="-1" aria-label="Previous book image">←</button><div class="gallery-dots">${book.images.map((image,index)=>`<button type="button" class="gallery-dot" data-slide-to="${index}" aria-label="Show image ${index+1}: ${image.alt}" aria-pressed="${index===0}"><span></span></button>`).join('')}</div><span class="gallery-status" aria-live="polite" aria-atomic="true">1 / ${book.images.length}</span><button type="button" class="gallery-arrow" data-direction="1" aria-label="Next book image">→</button></div>`:''}</div>`;
+}
+function showSlide(gallery,index) {
+ const slides=[...gallery.querySelectorAll('.featured-cover')];
+ index=(index+slides.length)%slides.length;
+ gallery.dataset.slide=String(index);
+ slides.forEach((slide,i)=>{slide.hidden=i!==index;});
+ gallery.querySelectorAll('[data-slide-to]').forEach((dot,i)=>dot.setAttribute('aria-pressed',String(i===index)));
+ gallery.querySelector('.gallery-status').textContent=`${index+1} / ${slides.length}`;
+}
+grid.addEventListener('click',event=>{
+ const control=event.target.closest('[data-direction],[data-slide-to]');
+ if(!control)return;
+ const gallery=control.closest('.book-gallery');
+ showSlide(gallery,control.hasAttribute('data-slide-to')?Number(control.dataset.slideTo):Number(gallery.dataset.slide)+Number(control.dataset.direction));
+});
+grid.addEventListener('keydown',event=>{
+ const gallery=event.target.closest('.book-gallery');
+ if(!gallery||!gallery.querySelector('.gallery-controls')||!['ArrowLeft','ArrowRight'].includes(event.key))return;
+ event.preventDefault();showSlide(gallery,Number(gallery.dataset.slide)+(event.key==='ArrowRight'?1:-1));
+});
 function render(filter='all') {
  const visible=books.filter(book=>filter==='all'||book.types.includes(filter));
  grid.innerHTML=visible.map(book=>`<article class="book-feature">
- <div class="book-gallery"><img class="featured-cover" src="assets/images/nila-cover.png" alt="Nila at Paatti’s Home — illustrated front cover" width="1448" height="1086" loading="lazy"><details class="book-preview"><summary>See the front & back cover <span aria-hidden="true">＋</span></summary><img src="assets/images/nila-front-back.png" alt="Front and back of Nila at Paatti’s Home" width="1448" height="1086" loading="lazy"></details></div>
+ ${gallery(book)}
  <div class="book-details"><p class="book-type">COMING SOON · PRE-ORDERS OPEN</p><div class="book-tags"><span>Storybook</span><span>Activity book</span><span>Ages ${book.age}</span></div><h3>${book.title}</h3><p class="book-subtitle">A Little Maths Adventure</p><p class="description">${book.description}</p><div class="discovery-list"><span>Count</span><span>Compare</span><span>Discover</span></div><p class="reading-note">Not released yet. Pre-order your copy today.<br>Message us for pricing and release details.</p><button class="button order" data-book="0">Pre-order now ↗</button></div></article>`).join('');
  document.querySelector('.empty').hidden=visible.length>0;
 }
