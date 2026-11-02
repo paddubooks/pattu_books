@@ -43,3 +43,10 @@ Pages output is generated separately in outputs/pages, with prefixed browser/res
 No repository was pushed or published from this workspace. The repository name supplied was Kindergarten_Maths_Activities; its full remote URL and actual hosted deployment remain unverified. Follow deployment.md to enable Pages and obtain the real URL.
 
 Final regression verification: content validation returned zero errors; all 15 unit tests, 45 normal browser tests and 3 Pages-specific tests passed. Both normal and repository-prefixed production builds passed. Reviewed generated responsive Books preview. The hosted GitHub deployment still requires pushing the parent repository and enabling Pages; no live deployment result is claimed.
+
+
+## 2 November 2026 — book shelf and learning welcome
+
+Replaced four sample titles and prices with Nila at Paatti’s Home (ages 4–6). The responsive feature includes the supplied front cover and an expandable front/back preview. Category filters retain Storybooks and Activity books, with an explicit empty state for Activity books. Confirm pricing and add the existing WhatsApp configuration before enabling direct ordering.
+
+The Learn welcome uses a normal-flow curiosity card with separate number and shape tiles, replacing the overlapping garden decoration. Saved progress and Continue learning remain intact. Books source lives in dist/index.html and dist/assets; npm run build regenerates dist/learn. Learning content and coverage are unchanged.

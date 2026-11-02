@@ -22,6 +22,10 @@ npm run preview
 
 Open http://127.0.0.1:4173. The build generates dist/learn and preserves the Books source in dist/index.html and dist/assets. **Do not delete or ignore the entire dist directory.** A build copies the large learning asset collection and can take longer than compiling the JavaScript.
 
+## Book showcase
+
+The Books shelf features the available title, **Nila at Paatti’s Home**, using supplied front and front/back cover images. Storybooks shows this title; Activity books shows an empty collection message. Pricing is intentionally omitted until confirmed; enquiries use the existing contact setup.
+
 ## What is included
 
 - 52 topics, 705 activities and 8,460 question sets covering 369 source skill mappings.

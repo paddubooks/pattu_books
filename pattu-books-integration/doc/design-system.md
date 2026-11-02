@@ -33,3 +33,10 @@ The Learn-only announcement strip is removed. Header, breadcrumbs, introductions
 Long lessons and large question sets remain naturally scrollable; text is not clipped or scaled down to fit an entire lesson. Opening sections, question diagrams and action spacing adapt to the viewport. Popup height is bounded to the viewport and scrolls internally if enlarged text requires it. Reduced-motion preferences suppress the entry animation.
 
 On phones, Search and filters is an expandable disclosure so the first activity appears earlier. All filtering controls remain available.
+
+
+## 2 November 2026 — book shelf and learning welcome
+
+Replaced four sample titles and prices with Nila at Paatti’s Home (ages 4–6). The responsive feature includes the supplied front cover and an expandable front/back preview. Category filters retain Storybooks and Activity books, with an explicit empty state for Activity books. Confirm pricing and add the existing WhatsApp configuration before enabling direct ordering.
+
+The Learn welcome uses a normal-flow curiosity card with separate number and shape tiles, replacing the overlapping garden decoration. Saved progress and Continue learning remain intact. Books source lives in dist/index.html and dist/assets; npm run build regenerates dist/learn. Learning content and coverage are unchanged.
