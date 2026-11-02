@@ -1,0 +1,8 @@
+@font-face{font-family:Nunito;src:url('/learn/fonts/Nunito-variable.ttf') format('truetype');font-style:normal;font-weight:200 1000;font-display:swap}
+@font-face{font-family:Outfit;src:url('/learn/fonts/Outfit-variable.ttf') format('truetype');font-style:normal;font-weight:100 900;font-display:swap}
+:root{
+ --cream:#FFFAF0;--green:#00652D;--purple:#782A90;--ink:#231F20;
+ --yellow:#FCE292;--bright-green:#37B549;--orange:#F78C1E;--gold:#FBCB0F;--berry:#7B0045;
+ --white:#FFFFFF;--lavender:#F3EAF7;--mint:#EDF6ED;--muted:#5D555F;--line:#DCD5DF;--boundary:#85738B;
+ --coral:var(--purple);--radius:20px;--shadow:0 8px 28px #231F200A;--font:Nunito,Arial,sans-serif;
+}

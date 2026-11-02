@@ -1,0 +1,40 @@
+# Local original archive; imported application content is versioned.
+/contentss/
+
+# Dependencies and caches
+node_modules/
+.vite/
+coverage/
+
+# Generated test output and local delivery artifacts
+outputs/
+test-results/
+playwright-report/
+*.log
+*.zip
+
+# Secrets and machine/account-specific settings
+.env
+.env.*
+!.env.example
+.openai/
+.codex/
+.DS_Store
+Thumbs.db
+
+# Learn build only: dist/index.html and dist/assets are Books SOURCE.
+/pattu-books-integration/dist/learn/
+/pattu-books-integration/public/learn/catalogue-summary.json
+/pattu-books-integration/public/learn/topic-assets/
+/pattu-books-integration/doc/reports/content-validation.json
+/pattu-books-integration/doc/reports/playwright.json
+/pattu-books-integration/doc/reports/previous-playwright.json
+/pattu-books-integration/doc/reports/vitest.json
+/pattu-books-integration/doc/reports/verification-summary.json
+/pattu-books-integration/doc/reports/import.json
+
+# Legacy local copying/packaging utilities, not part of repository setup.
+/pattu-books-integration/scripts/apply-integration.ps1
+/pattu-books-integration/scripts/package.mjs
+# An accidentally nested clone is not application source.
+/pattu-books-integration/paddubooks/

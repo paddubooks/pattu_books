@@ -1,0 +1,3323 @@
+[
+  [
+    "A.1",
+    "Numbers to 3",
+    "Recognise numbers; within 3",
+    "MATH-K-001, MATH-K-003, MATH-K-005, MATH-K-007, MATH-K-009, MATH-K-011, MATH-K-013",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "A.2",
+    "Numbers to 3",
+    "Connect spoken numbers to numerals; within 3",
+    "MATH-K-002, MATH-K-004, MATH-K-006, MATH-K-008, MATH-K-010, MATH-K-012",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.1",
+    "Counting to 3",
+    "Practise one-to-one counting to 3",
+    "MATH-K-014, MATH-K-024",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.2",
+    "Counting to 3",
+    "Determine picture quantities; within 3",
+    "MATH-K-015, MATH-K-025",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.3",
+    "Counting to 3",
+    "Determine shape quantities; within 3",
+    "MATH-K-016, MATH-K-026",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.4",
+    "Counting to 3",
+    "Count cubes; within 3",
+    "MATH-K-017",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.5",
+    "Counting to 3",
+    "Count on frames; within 3",
+    "MATH-K-018",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.6",
+    "Counting to 3",
+    "Select a requested sticker quantity; within 3",
+    "MATH-K-019",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.7",
+    "Counting to 3",
+    "Build quantities with cubes; within 3",
+    "MATH-K-020",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.8",
+    "Counting to 3",
+    "Build quantities on frames; within 3",
+    "MATH-K-021",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.9",
+    "Counting to 3",
+    "Model quantities with pictures; within 3",
+    "MATH-K-022",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "B.10",
+    "Counting to 3",
+    "Model quantities with shapes; within 3",
+    "MATH-K-023",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "C.1",
+    "Numbers to 5",
+    "Recognise numbers; within 5",
+    "MATH-K-027, MATH-K-031, MATH-K-035, MATH-K-037",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "C.2",
+    "Numbers to 5",
+    "Connect spoken numbers to numerals; within 5",
+    "MATH-K-028, MATH-K-032, MATH-K-036, MATH-K-038",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "C.3",
+    "Numbers to 5",
+    "Recognise numbers; 0 to 5",
+    "MATH-K-029, MATH-K-033, MATH-K-039",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "C.4",
+    "Numbers to 5",
+    "Connect spoken numbers to numerals; 0 to 5",
+    "MATH-K-030, MATH-K-034",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.1",
+    "Counting to 5",
+    "Practise one-to-one counting to 5",
+    "MATH-K-040, MATH-K-058",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.2",
+    "Counting to 5",
+    "Determine picture quantities; within 5",
+    "MATH-K-041, MATH-K-059",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.3",
+    "Counting to 5",
+    "Determine shape quantities in rows; within 5",
+    "MATH-K-042, MATH-K-060",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.4",
+    "Counting to 5",
+    "Count cubes; within 5",
+    "MATH-K-043",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.5",
+    "Counting to 5",
+    "Count dots; 0 to 5",
+    "MATH-K-044",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.6",
+    "Counting to 5",
+    "Count on frames; within 5",
+    "MATH-K-045",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.7",
+    "Counting to 5",
+    "Count scattered pictures; within 5",
+    "MATH-K-046",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.8",
+    "Counting to 5",
+    "Count scattered shapes; within 5",
+    "MATH-K-047",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.9",
+    "Counting to 5",
+    "Select a requested sticker quantity; within 5",
+    "MATH-K-048",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.10",
+    "Counting to 5",
+    "Build quantities with cubes; within 5",
+    "MATH-K-049",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.11",
+    "Counting to 5",
+    "Build quantities on frames; within 5",
+    "MATH-K-050",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.12",
+    "Counting to 5",
+    "Model quantities with pictures; within 5",
+    "MATH-K-051",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.13",
+    "Counting to 5",
+    "Model quantities with pictures; 0 to 5",
+    "MATH-K-052",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.14",
+    "Counting to 5",
+    "Model quantities with shapes; within 5",
+    "MATH-K-053",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.15",
+    "Counting to 5",
+    "Count on to find the next number; within 5",
+    "MATH-K-054",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.16",
+    "Counting to 5",
+    "Arrange numerals within 5 in order",
+    "MATH-K-055",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.17",
+    "Counting to 5",
+    "What number comes next?; within 5",
+    "MATH-K-056",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "D.18",
+    "Counting to 5",
+    "Ordinal numbers; through fifth",
+    "MATH-K-057",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "E.1",
+    "One more and one less to 5",
+    "One more with pictures; within 5",
+    "MATH-K-061, MATH-K-066, MATH-K-071",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "E.2",
+    "One more and one less to 5",
+    "One more on frames; within 5",
+    "MATH-K-062, MATH-K-067, MATH-K-072",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "E.3",
+    "One more and one less to 5",
+    "One more; within 5",
+    "MATH-K-063, MATH-K-068, MATH-K-073",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "E.4",
+    "One more and one less to 5",
+    "One less with pictures; within 5",
+    "MATH-K-064, MATH-K-069",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "E.5",
+    "One more and one less to 5",
+    "One less on frames; within 5",
+    "MATH-K-065, MATH-K-070",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.1",
+    "Comparing up to 5",
+    "Are there the same number?; within 5",
+    "MATH-K-074, MATH-K-090",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.2",
+    "Comparing up to 5",
+    "Determine picture quantities and show a number that is equal; within 5",
+    "MATH-K-075, MATH-K-091",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.3",
+    "Comparing up to 5",
+    "More; compare by matching within 5",
+    "MATH-K-076, MATH-K-092",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.4",
+    "Comparing up to 5",
+    "Fewer; compare by matching within 5",
+    "MATH-K-077",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.5",
+    "Comparing up to 5",
+    "Fewer and more; compare by matching within 5",
+    "MATH-K-078",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.6",
+    "Comparing up to 5",
+    "Fewer, more, and same; within 5",
+    "MATH-K-079",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.7",
+    "Comparing up to 5",
+    "Greater; compare by matching within 5",
+    "MATH-K-080",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.8",
+    "Comparing up to 5",
+    "Less; compare by matching within 5",
+    "MATH-K-081",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.9",
+    "Comparing up to 5",
+    "Are there enough?; within 5",
+    "MATH-K-082",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.10",
+    "Comparing up to 5",
+    "Fewer and more; compare by counting within 5",
+    "MATH-K-083",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.11",
+    "Comparing up to 5",
+    "Fewer and more; compare in a mixed group within 5",
+    "MATH-K-084",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.12",
+    "Comparing up to 5",
+    "Greater than, less than, or equal to; compare by counting within 5",
+    "MATH-K-085",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.13",
+    "Comparing up to 5",
+    "Determine picture quantities and show a number that is greater, less, or equal; within 5",
+    "MATH-K-086",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.14",
+    "Comparing up to 5",
+    "Show a number greater than, less than, or equal to a given number within 5",
+    "MATH-K-087",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.15",
+    "Comparing up to 5",
+    "Judge two numbers; within 5",
+    "MATH-K-088",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "F.16",
+    "Comparing up to 5",
+    "Greater and less; compare two numbers within 5",
+    "MATH-K-089",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.1",
+    "Numbers and counting to 7",
+    "Connect spoken numbers to numerals; within 7",
+    "MATH-K-093, MATH-K-102, MATH-K-103",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.2",
+    "Numbers and counting to 7",
+    "Practise one-to-one counting; within 7",
+    "MATH-K-094, MATH-K-104",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.3",
+    "Numbers and counting to 7",
+    "Determine picture quantities; within 7",
+    "MATH-K-095, MATH-K-105",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.4",
+    "Numbers and counting to 7",
+    "Count cubes; within 7",
+    "MATH-K-096",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.5",
+    "Numbers and counting to 7",
+    "Count on ten frames; within 7",
+    "MATH-K-097",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.6",
+    "Numbers and counting to 7",
+    "Select a requested sticker quantity; within 7",
+    "MATH-K-098",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.7",
+    "Numbers and counting to 7",
+    "Build quantities with cubes; within 7",
+    "MATH-K-099",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.8",
+    "Numbers and counting to 7",
+    "Build quantities on ten frames; within 7",
+    "MATH-K-100",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "G.9",
+    "Numbers and counting to 7",
+    "Model quantities; within 7",
+    "MATH-K-101",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.1",
+    "Numbers and counting to 9",
+    "Recognise numbers; 0 to 9",
+    "MATH-K-106, MATH-K-116",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.2",
+    "Numbers and counting to 9",
+    "Connect spoken numbers to numerals; within 9",
+    "MATH-K-107, MATH-K-117",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.3",
+    "Numbers and counting to 9",
+    "Practise one-to-one counting; within 9",
+    "MATH-K-108, MATH-K-118",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.4",
+    "Numbers and counting to 9",
+    "Determine picture quantities; within 9",
+    "MATH-K-109",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.5",
+    "Numbers and counting to 9",
+    "Count cubes; within 9",
+    "MATH-K-110",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.6",
+    "Numbers and counting to 9",
+    "Count on ten frames; within 9",
+    "MATH-K-111",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.7",
+    "Numbers and counting to 9",
+    "Select a requested sticker quantity; within 9",
+    "MATH-K-112",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.8",
+    "Numbers and counting to 9",
+    "Build quantities with cubes; within 9",
+    "MATH-K-113",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.9",
+    "Numbers and counting to 9",
+    "Build quantities on ten frames; within 9",
+    "MATH-K-114",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "H.10",
+    "Numbers and counting to 9",
+    "Model quantities; within 9",
+    "MATH-K-115",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "I.1",
+    "Numbers to 10",
+    "Recognise numbers; within 10",
+    "MATH-K-119, MATH-K-122, MATH-K-125, MATH-K-128, MATH-K-129",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "I.2",
+    "Numbers to 10",
+    "Connect spoken numbers to numerals; within 10",
+    "MATH-K-120, MATH-K-123, MATH-K-126, MATH-K-130",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "I.3",
+    "Numbers to 10",
+    "Names of numbers; within 10",
+    "MATH-K-121, MATH-K-124, MATH-K-127, MATH-K-131",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.1",
+    "Counting to 10",
+    "Practise one-to-one counting to 10",
+    "MATH-K-132, MATH-K-146",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.2",
+    "Counting to 10",
+    "Determine picture quantities; within 10",
+    "MATH-K-133, MATH-K-147",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.3",
+    "Counting to 10",
+    "Count cubes; within 10",
+    "MATH-K-134, MATH-K-148",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.4",
+    "Counting to 10",
+    "Count dots; within 10",
+    "MATH-K-135",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.5",
+    "Counting to 10",
+    "Determine shape quantities in rows; within 10",
+    "MATH-K-136",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.6",
+    "Counting to 10",
+    "Count on ten frames; within 10",
+    "MATH-K-137",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.7",
+    "Counting to 10",
+    "Count blocks; within 10",
+    "MATH-K-138",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.8",
+    "Counting to 10",
+    "Count scattered pictures; within 10",
+    "MATH-K-139",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.9",
+    "Counting to 10",
+    "Count scattered shapes; within 10",
+    "MATH-K-140",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.10",
+    "Counting to 10",
+    "Determine shape quantities in rings; within 10",
+    "MATH-K-141",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.11",
+    "Counting to 10",
+    "Select a requested sticker quantity; within 10",
+    "MATH-K-142",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.12",
+    "Counting to 10",
+    "Build quantities with cubes; within 10",
+    "MATH-K-143",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.13",
+    "Counting to 10",
+    "Build quantities on ten frames; within 10",
+    "MATH-K-144",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "J.14",
+    "Counting to 10",
+    "Model quantities; within 10",
+    "MATH-K-145",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.1",
+    "One more and one less to 10",
+    "One more with pictures; within 10",
+    "MATH-K-149, MATH-K-158, MATH-K-159",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.2",
+    "One more and one less to 10",
+    "One more on frames; within 10",
+    "MATH-K-150, MATH-K-160",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.3",
+    "One more and one less to 10",
+    "One more; within 10",
+    "MATH-K-151, MATH-K-161",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.4",
+    "One more and one less to 10",
+    "One less with pictures; within 10",
+    "MATH-K-152",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.5",
+    "One more and one less to 10",
+    "One less on frames; within 10",
+    "MATH-K-153",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.6",
+    "One more and one less to 10",
+    "One less; within 10",
+    "MATH-K-154",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.7",
+    "One more and one less to 10",
+    "One more and one less with pictures; within 10",
+    "MATH-K-155",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.8",
+    "One more and one less to 10",
+    "One more and one less on frames; within 10",
+    "MATH-K-156",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "K.9",
+    "One more and one less to 10",
+    "One more and one less; within 10",
+    "MATH-K-157",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.1",
+    "Counting forward and back to 10",
+    "What number comes next?; within 10",
+    "MATH-K-162, MATH-K-173",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.2",
+    "Counting forward and back to 10",
+    "Count on to find the next number; within 10",
+    "MATH-K-163, MATH-K-174",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.3",
+    "Counting forward and back to 10",
+    "Count up and down to find the next number; within 10",
+    "MATH-K-164, MATH-K-175",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.4",
+    "Counting forward and back to 10",
+    "Count to fill a ten frame",
+    "MATH-K-165",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.5",
+    "Counting forward and back to 10",
+    "Number lines; within 10",
+    "MATH-K-166",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.6",
+    "Counting forward and back to 10",
+    "Before, after, and between; within 10",
+    "MATH-K-167",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.7",
+    "Counting forward and back to 10",
+    "Arrange numerals in counting order; within 10",
+    "MATH-K-168",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.8",
+    "Counting forward and back to 10",
+    "Count forward; within 10",
+    "MATH-K-169",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.9",
+    "Counting forward and back to 10",
+    "Count forward and backward; within 10",
+    "MATH-K-170",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.10",
+    "Counting forward and back to 10",
+    "Complete a sequence; within 10",
+    "MATH-K-171",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "L.11",
+    "Counting forward and back to 10",
+    "Ordinal numbers; through tenth",
+    "MATH-K-172",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.1",
+    "Comparing up to 10",
+    "Fewer and more; compare by matching",
+    "MATH-K-176, MATH-K-190",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.2",
+    "Comparing up to 10",
+    "Fewer, more, and same",
+    "MATH-K-177, MATH-K-191",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.3",
+    "Comparing up to 10",
+    "Greater and less; compare by matching within 10",
+    "MATH-K-178, MATH-K-192",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.4",
+    "Comparing up to 10",
+    "Are there enough?",
+    "MATH-K-179",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.5",
+    "Comparing up to 10",
+    "Determine picture quantities and show a number that is equal; within 10",
+    "MATH-K-180",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.6",
+    "Comparing up to 10",
+    "Fewer and more; compare by counting",
+    "MATH-K-181",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.7",
+    "Comparing up to 10",
+    "Fewer and more; compare in a mixed group",
+    "MATH-K-182",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.8",
+    "Comparing up to 10",
+    "Greater than, less than, or equal to; compare by counting within 10",
+    "MATH-K-183",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.9",
+    "Comparing up to 10",
+    "Determine picture quantities and show a number that is greater, less, or equal; within 10",
+    "MATH-K-184",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.10",
+    "Comparing up to 10",
+    "Show a number greater than, less than, or equal to a given number within 10",
+    "MATH-K-185",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.11",
+    "Comparing up to 10",
+    "Judge two numbers; within 10",
+    "MATH-K-186",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.12",
+    "Comparing up to 10",
+    "Greater and less; compare two numbers within 10",
+    "MATH-K-187",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.13",
+    "Comparing up to 10",
+    "Judge three numbers; within 10",
+    "MATH-K-188",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "M.14",
+    "Comparing up to 10",
+    "Arrange numerals within 10 in order",
+    "MATH-K-189",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "N.1",
+    "Understand addition up to 5",
+    "Put together numbers using cubes; sums within 5",
+    "MATH-K-193, MATH-K-198, MATH-K-203",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "N.2",
+    "Understand addition up to 5",
+    "Build cube trains to add within 5; words",
+    "MATH-K-194, MATH-K-199, MATH-K-204",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "N.3",
+    "Understand addition up to 5",
+    "Joining equations within 5; which model matches?",
+    "MATH-K-195, MATH-K-200, MATH-K-205",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "N.4",
+    "Understand addition up to 5",
+    "Joining equations within 5; what does the model show?",
+    "MATH-K-196, MATH-K-201",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "N.5",
+    "Understand addition up to 5",
+    "Construct addition sentences for pictures; sums within 5",
+    "MATH-K-197, MATH-K-202",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "O.1",
+    "Addition up to 5",
+    "Add with cubes; sums within 5",
+    "MATH-K-206, MATH-K-211, MATH-K-216",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "O.2",
+    "Addition up to 5",
+    "Build cube trains to add within 5; addition sentences",
+    "MATH-K-207, MATH-K-212, MATH-K-217",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "O.3",
+    "Addition up to 5",
+    "Add with pictures; sums within 5",
+    "MATH-K-208, MATH-K-213, MATH-K-218",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "O.4",
+    "Addition up to 5",
+    "Add two numbers; sums within 5",
+    "MATH-K-209, MATH-K-214",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "O.5",
+    "Addition up to 5",
+    "Complete the addition sentence; sums within 5",
+    "MATH-K-210, MATH-K-215",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "P.1",
+    "Take apart numbers up to 5",
+    "Split numbers using cubes; sums within 5",
+    "MATH-K-219, MATH-K-224, MATH-K-229",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "P.2",
+    "Take apart numbers up to 5",
+    "Make a number different ways using cubes; sums within 5",
+    "MATH-K-220, MATH-K-225, MATH-K-230",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "P.3",
+    "Take apart numbers up to 5",
+    "Split numbers within 5; addition sentences",
+    "MATH-K-221, MATH-K-226, MATH-K-231",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "P.4",
+    "Take apart numbers up to 5",
+    "Split numbers in different ways; sums within 5",
+    "MATH-K-222, MATH-K-227",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "P.5",
+    "Take apart numbers up to 5",
+    "Make a number using addition; sums within 5",
+    "MATH-K-223, MATH-K-228",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Q.1",
+    "Addition word problems up to 5",
+    "Build cube trains to solve addition short stories; sums within 5",
+    "MATH-K-232, MATH-K-237, MATH-K-242",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Q.2",
+    "Addition word problems up to 5",
+    "Addition short stories with pictures; sums within 5",
+    "MATH-K-233, MATH-K-238, MATH-K-243",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Q.3",
+    "Addition word problems up to 5",
+    "Construct addition sentences for short stories with pictures; sums within 5",
+    "MATH-K-234, MATH-K-239, MATH-K-244",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Q.4",
+    "Addition word problems up to 5",
+    "Addition short stories; sums within 5",
+    "MATH-K-235, MATH-K-240",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Q.5",
+    "Addition word problems up to 5",
+    "Model and write addition sentences for short stories; sums within 5",
+    "MATH-K-236, MATH-K-241",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "R.1",
+    "Understand addition up to 10",
+    "Put together numbers using cubes; sums within 10",
+    "MATH-K-245, MATH-K-251, MATH-K-255",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "R.2",
+    "Understand addition up to 10",
+    "Build cube trains to add within 10; words",
+    "MATH-K-246, MATH-K-252, MATH-K-256",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "R.3",
+    "Understand addition up to 10",
+    "Joining equations within 10; which model matches?",
+    "MATH-K-247, MATH-K-253, MATH-K-257",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "R.4",
+    "Understand addition up to 10",
+    "Joining equations within 10; what does the model show?",
+    "MATH-K-248, MATH-K-254",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "R.5",
+    "Understand addition up to 10",
+    "Construct addition sentences for pictures; sums within 10",
+    "MATH-K-249",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "R.6",
+    "Understand addition up to 10",
+    "Turn words into an addition sentence; sums within 10",
+    "MATH-K-250",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.1",
+    "Addition up to 10",
+    "Add with cubes; sums within 10",
+    "MATH-K-258, MATH-K-267, MATH-K-268",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.2",
+    "Addition up to 10",
+    "Build cube trains to add within 10; addition sentences",
+    "MATH-K-259, MATH-K-269",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.3",
+    "Addition up to 10",
+    "Add with pictures; sums within 10",
+    "MATH-K-260, MATH-K-270",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.4",
+    "Addition up to 10",
+    "Add 1 or 2; numbers within 10",
+    "MATH-K-261",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.5",
+    "Addition up to 10",
+    "Add two numbers; sums within 10",
+    "MATH-K-262",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.6",
+    "Addition up to 10",
+    "Complete the addition sentence to make 10; with models",
+    "MATH-K-263",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.7",
+    "Addition up to 10",
+    "Complete the addition sentence to make 10",
+    "MATH-K-264",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.8",
+    "Addition up to 10",
+    "Complete the addition sentence; sums within 10",
+    "MATH-K-265",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "S.9",
+    "Addition up to 10",
+    "Add in any order",
+    "MATH-K-266",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "T.1",
+    "Take apart numbers up to 10",
+    "Split numbers using cubes; sums within 10",
+    "MATH-K-271, MATH-K-279, MATH-K-281",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "T.2",
+    "Take apart numbers up to 10",
+    "Make a number different ways using cubes; sums within 10",
+    "MATH-K-272, MATH-K-280, MATH-K-282",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "T.3",
+    "Take apart numbers up to 10",
+    "Split 10 using cubes",
+    "MATH-K-273, MATH-K-283",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "T.4",
+    "Take apart numbers up to 10",
+    "Decompose a number within 10",
+    "MATH-K-274",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "T.5",
+    "Take apart numbers up to 10",
+    "Split numbers within 10; addition sentences",
+    "MATH-K-275",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "T.6",
+    "Take apart numbers up to 10",
+    "Split 10; addition sentences",
+    "MATH-K-276",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "T.7",
+    "Take apart numbers up to 10",
+    "Split numbers in different ways; sums within 10",
+    "MATH-K-277",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "T.8",
+    "Take apart numbers up to 10",
+    "Make a number using addition; sums within 10",
+    "MATH-K-278",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "U.1",
+    "Addition word problems up to 10",
+    "Build cube trains to solve addition short stories; sums within 10",
+    "MATH-K-284, MATH-K-289, MATH-K-294",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "U.2",
+    "Addition word problems up to 10",
+    "Addition short stories with pictures; sums within 10",
+    "MATH-K-285, MATH-K-290, MATH-K-295",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "U.3",
+    "Addition word problems up to 10",
+    "Construct addition sentences for short stories with pictures; sums within 10",
+    "MATH-K-286, MATH-K-291, MATH-K-296",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "U.4",
+    "Addition word problems up to 10",
+    "Addition short stories; sums within 10",
+    "MATH-K-287, MATH-K-292",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "U.5",
+    "Addition word problems up to 10",
+    "Model and write addition sentences for short stories; sums within 10",
+    "MATH-K-288, MATH-K-293",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "V.1",
+    "Understand subtraction up to 5",
+    "Take away cubes; numbers within 5",
+    "MATH-K-297, MATH-K-302, MATH-K-307",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "V.2",
+    "Understand subtraction up to 5",
+    "Taking-away equations within 5; which model matches?",
+    "MATH-K-298, MATH-K-303, MATH-K-308",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "V.3",
+    "Understand subtraction up to 5",
+    "Taking-away equations within 5; what does the model show?",
+    "MATH-K-299, MATH-K-304, MATH-K-309",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "V.4",
+    "Understand subtraction up to 5",
+    "Taking-away equations within 5; what does the cube train show?",
+    "MATH-K-300, MATH-K-305",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "V.5",
+    "Understand subtraction up to 5",
+    "Construct subtraction sentences for pictures; within 5",
+    "MATH-K-301, MATH-K-306",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "W.1",
+    "Subtraction up to 5",
+    "Subtract with cubes; numbers within 5",
+    "MATH-K-310, MATH-K-315, MATH-K-320",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "W.2",
+    "Subtraction up to 5",
+    "Subtract with pictures; numbers within 5",
+    "MATH-K-311, MATH-K-316, MATH-K-321",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "W.3",
+    "Subtraction up to 5",
+    "Subtract; numbers within 5",
+    "MATH-K-312, MATH-K-317, MATH-K-322",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "W.4",
+    "Subtraction up to 5",
+    "Make a number using subtraction; numbers within 5",
+    "MATH-K-313, MATH-K-318",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "W.5",
+    "Subtraction up to 5",
+    "Complete the subtraction sentence; numbers within 5",
+    "MATH-K-314, MATH-K-319",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "X.1",
+    "Subtraction word problems up to 5",
+    "Subtraction short stories with pictures; numbers within 5",
+    "MATH-K-323, MATH-K-328, MATH-K-333",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "X.2",
+    "Subtraction word problems up to 5",
+    "Construct subtraction sentences for short stories with pictures; within 5",
+    "MATH-K-324, MATH-K-329, MATH-K-334",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "X.3",
+    "Subtraction word problems up to 5",
+    "Use cube trains to solve subtraction short stories; within 5",
+    "MATH-K-325, MATH-K-330, MATH-K-335",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "X.4",
+    "Subtraction word problems up to 5",
+    "Subtraction short stories; numbers within 5",
+    "MATH-K-326, MATH-K-331",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "X.5",
+    "Subtraction word problems up to 5",
+    "Model and write subtraction sentences for short stories; within 5",
+    "MATH-K-327, MATH-K-332",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Y.1",
+    "Understand subtraction up to 10",
+    "Take away cubes; numbers within 10",
+    "MATH-K-336, MATH-K-342, MATH-K-346",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Y.2",
+    "Understand subtraction up to 10",
+    "Taking-away equations within 10; which model matches?",
+    "MATH-K-337, MATH-K-343, MATH-K-347",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Y.3",
+    "Understand subtraction up to 10",
+    "Taking-away equations within 10; what does the model show?",
+    "MATH-K-338, MATH-K-344, MATH-K-348",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Y.4",
+    "Understand subtraction up to 10",
+    "Taking-away equations within 10; what does the cube train show?",
+    "MATH-K-339, MATH-K-345",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Y.5",
+    "Understand subtraction up to 10",
+    "Construct subtraction sentences for pictures; within 10",
+    "MATH-K-340",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Y.6",
+    "Understand subtraction up to 10",
+    "Turn words into a subtraction sentence; numbers within 10",
+    "MATH-K-341",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Z.1",
+    "Subtraction up to 10",
+    "Subtract with cubes; numbers within 10",
+    "MATH-K-349, MATH-K-355, MATH-K-359",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Z.2",
+    "Subtraction up to 10",
+    "Subtract with pictures; numbers within 10",
+    "MATH-K-350, MATH-K-356, MATH-K-360",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Z.3",
+    "Subtraction up to 10",
+    "Subtract 1 or 2; numbers within 10",
+    "MATH-K-351, MATH-K-357, MATH-K-361",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Z.4",
+    "Subtraction up to 10",
+    "Subtract; numbers within 10",
+    "MATH-K-352, MATH-K-358",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Z.5",
+    "Subtraction up to 10",
+    "Make a number using subtraction; numbers within 10",
+    "MATH-K-353",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "Z.6",
+    "Subtraction up to 10",
+    "Complete the subtraction sentence; numbers within 10",
+    "MATH-K-354",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "AA.1",
+    "Subtraction word problems up to 10",
+    "Subtraction short stories with pictures; numbers within 10",
+    "MATH-K-362, MATH-K-367, MATH-K-372",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "AA.2",
+    "Subtraction word problems up to 10",
+    "Construct subtraction sentences for short stories with pictures; within 10",
+    "MATH-K-363, MATH-K-368, MATH-K-373",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "AA.3",
+    "Subtraction word problems up to 10",
+    "Use cube trains to solve subtraction short stories; within 10",
+    "MATH-K-364, MATH-K-369, MATH-K-374",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "AA.4",
+    "Subtraction word problems up to 10",
+    "Subtraction short stories; numbers within 10",
+    "MATH-K-365, MATH-K-370",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "AA.5",
+    "Subtraction word problems up to 10",
+    "Model and write subtraction sentences for short stories; within 10",
+    "MATH-K-366, MATH-K-371",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "BB.1",
+    "Mixed operations",
+    "Add or subtract; numbers within 5",
+    "MATH-K-375, MATH-K-381, MATH-K-385",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "BB.2",
+    "Mixed operations",
+    "Add or subtract; numbers within 10",
+    "MATH-K-376, MATH-K-382, MATH-K-386",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "BB.3",
+    "Mixed operations",
+    "Addition and subtraction; ways to make a number",
+    "MATH-K-377, MATH-K-383, MATH-K-387",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "BB.4",
+    "Mixed operations",
+    "Related facts with models; numbers within 5",
+    "MATH-K-378, MATH-K-384",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "BB.5",
+    "Mixed operations",
+    "Related facts with models; numbers within 10",
+    "MATH-K-379",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "BB.6",
+    "Mixed operations",
+    "Add and subtract with 0",
+    "MATH-K-380",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "CC.1",
+    "Mixed operation word problems",
+    "Addition and subtraction short stories with pictures",
+    "MATH-K-388, MATH-K-392, MATH-K-396, MATH-K-398",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "CC.2",
+    "Mixed operation word problems",
+    "Use cube trains to solve addition and subtraction short stories; within 10",
+    "MATH-K-389, MATH-K-393, MATH-K-397, MATH-K-399",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "CC.3",
+    "Mixed operation word problems",
+    "Addition and subtraction short stories",
+    "MATH-K-390, MATH-K-394, MATH-K-400",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "CC.4",
+    "Mixed operation word problems",
+    "Model and write addition and subtraction sentences for short stories",
+    "MATH-K-391, MATH-K-395",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "DD.1",
+    "Numbers to 20",
+    "Recognise numbers; within 20",
+    "MATH-K-401, MATH-K-404, MATH-K-407, MATH-K-410, MATH-K-411",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "DD.2",
+    "Numbers to 20",
+    "Construct the number you hear; within 20",
+    "MATH-K-402, MATH-K-405, MATH-K-408, MATH-K-412",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "DD.3",
+    "Numbers to 20",
+    "Names of numbers; within 20",
+    "MATH-K-403, MATH-K-406, MATH-K-409, MATH-K-413",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.1",
+    "Counting to 20",
+    "Determine picture quantities; within 15",
+    "MATH-K-414, MATH-K-424",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.2",
+    "Counting to 20",
+    "Determine picture quantities in arrays and circles; within 15",
+    "MATH-K-415, MATH-K-425",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.3",
+    "Counting to 20",
+    "Select a requested sticker quantity; within 15",
+    "MATH-K-416, MATH-K-426",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.4",
+    "Counting to 20",
+    "Determine picture quantities; within 20",
+    "MATH-K-417",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.5",
+    "Counting to 20",
+    "Count dots; 0 to 20",
+    "MATH-K-418",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.6",
+    "Counting to 20",
+    "Count on ten frames; within 20",
+    "MATH-K-419",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.7",
+    "Counting to 20",
+    "Count blocks; within 20",
+    "MATH-K-420",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.8",
+    "Counting to 20",
+    "Determine picture quantities in arrays and circles; within 20",
+    "MATH-K-421",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.9",
+    "Counting to 20",
+    "Build quantities on ten frames; within 20",
+    "MATH-K-422",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "EE.10",
+    "Counting to 20",
+    "Model quantities; within 20",
+    "MATH-K-423",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "FF.1",
+    "One more and one less to 20",
+    "One more; within 20",
+    "MATH-K-427, MATH-K-430, MATH-K-433, MATH-K-436, MATH-K-437",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "FF.2",
+    "One more and one less to 20",
+    "One less; within 20",
+    "MATH-K-428, MATH-K-431, MATH-K-434, MATH-K-438",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "FF.3",
+    "One more and one less to 20",
+    "One more and one less; within 20",
+    "MATH-K-429, MATH-K-432, MATH-K-435, MATH-K-439",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.1",
+    "Counting forward and back to 20",
+    "Count on a chart; within 20",
+    "MATH-K-440, MATH-K-450",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.2",
+    "Counting forward and back to 20",
+    "Count on to find the next number; within 20",
+    "MATH-K-441, MATH-K-451",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.3",
+    "Counting forward and back to 20",
+    "Count up and down to find the next number; within 20",
+    "MATH-K-442, MATH-K-452",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.4",
+    "Counting forward and back to 20",
+    "Number lines; within 20",
+    "MATH-K-443",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.5",
+    "Counting forward and back to 20",
+    "Before, after, and between; within 20",
+    "MATH-K-444",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.6",
+    "Counting forward and back to 20",
+    "Count forward; within 20",
+    "MATH-K-445",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.7",
+    "Counting forward and back to 20",
+    "Count backward; within 20",
+    "MATH-K-446",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.8",
+    "Counting forward and back to 20",
+    "Count forward and backward; within 20",
+    "MATH-K-447",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.9",
+    "Counting forward and back to 20",
+    "Complete an increasing sequence; within 20",
+    "MATH-K-448",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "GG.10",
+    "Counting forward and back to 20",
+    "Complete a sequence; within 20",
+    "MATH-K-449",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "HH.1",
+    "Comparing up to 20",
+    "Fewer and more; within 20",
+    "MATH-K-453, MATH-K-459, MATH-K-463",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "HH.2",
+    "Comparing up to 20",
+    "Greater than, less than, or equal to; compare by counting within 20",
+    "MATH-K-454, MATH-K-460, MATH-K-464",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "HH.3",
+    "Comparing up to 20",
+    "Show a number greater than, less than, or equal to a given number within 20",
+    "MATH-K-455, MATH-K-461, MATH-K-465",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "HH.4",
+    "Comparing up to 20",
+    "Judge numbers within 20 using number lines",
+    "MATH-K-456, MATH-K-462",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "HH.5",
+    "Comparing up to 20",
+    "Judge numbers within 20",
+    "MATH-K-457",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "HH.6",
+    "Comparing up to 20",
+    "Arrange numerals within 20 in order",
+    "MATH-K-458",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.1",
+    "Teen numbers",
+    "Make teen numbers with models: words",
+    "MATH-K-466, MATH-K-478",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.2",
+    "Teen numbers",
+    "Make teen numbers: words",
+    "MATH-K-467, MATH-K-479",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.3",
+    "Teen numbers",
+    "Split teen numbers with models: words",
+    "MATH-K-468, MATH-K-480",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.4",
+    "Teen numbers",
+    "Split teen numbers: words",
+    "MATH-K-469",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.5",
+    "Teen numbers",
+    "Explore tens and ones; within 20",
+    "MATH-K-470",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.6",
+    "Teen numbers",
+    "Make and take apart teen numbers: tens and ones",
+    "MATH-K-471",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.7",
+    "Teen numbers",
+    "Make teen numbers with models: addition sentences",
+    "MATH-K-472",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.8",
+    "Teen numbers",
+    "Make teen numbers: addition sentences",
+    "MATH-K-473",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.9",
+    "Teen numbers",
+    "Split teen numbers with models: addition sentences",
+    "MATH-K-474",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.10",
+    "Teen numbers",
+    "Split teen numbers: addition sentences",
+    "MATH-K-475",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.11",
+    "Teen numbers",
+    "Make and take apart teen numbers with models: addition sentences",
+    "MATH-K-476",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "II.12",
+    "Teen numbers",
+    "Make and take apart teen numbers: addition sentences",
+    "MATH-K-477",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "JJ.1",
+    "Numbers and counting to 30",
+    "Count on ten frames; within 30",
+    "MATH-K-481, MATH-K-487, MATH-K-491",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "JJ.2",
+    "Numbers and counting to 30",
+    "Count on a chart; within 30",
+    "MATH-K-482, MATH-K-488, MATH-K-492",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "JJ.3",
+    "Numbers and counting to 30",
+    "Number lines; within 30",
+    "MATH-K-483, MATH-K-489, MATH-K-493",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "JJ.4",
+    "Numbers and counting to 30",
+    "Count forward; within 30",
+    "MATH-K-484, MATH-K-490",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "JJ.5",
+    "Numbers and counting to 30",
+    "Count blocks; within 30",
+    "MATH-K-485",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "JJ.6",
+    "Numbers and counting to 30",
+    "Explore tens and ones; within 30",
+    "MATH-K-486",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "KK.1",
+    "Counting by tens",
+    "Learn to skip-count by tens",
+    "MATH-K-494, MATH-K-498, MATH-K-502, MATH-K-504",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "KK.2",
+    "Counting by tens",
+    "Skip-count by tens",
+    "MATH-K-495, MATH-K-499, MATH-K-503, MATH-K-505",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "KK.3",
+    "Counting by tens",
+    "Count groups of ten",
+    "MATH-K-496, MATH-K-500, MATH-K-506",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "KK.4",
+    "Counting by tens",
+    "Count forward by tens",
+    "MATH-K-497, MATH-K-501",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.1",
+    "Numbers and counting to 100",
+    "Count on a chart; within 50",
+    "MATH-K-507, MATH-K-516, MATH-K-517",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.2",
+    "Numbers and counting to 100",
+    "Construct the number you hear; within 100",
+    "MATH-K-508, MATH-K-518",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.3",
+    "Numbers and counting to 100",
+    "Determine picture quantities; within 100",
+    "MATH-K-509, MATH-K-519",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.4",
+    "Numbers and counting to 100",
+    "Count blocks; within 100",
+    "MATH-K-510",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.5",
+    "Numbers and counting to 100",
+    "Count on the hundred chart",
+    "MATH-K-511",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.6",
+    "Numbers and counting to 100",
+    "Count forward on the hundred chart",
+    "MATH-K-512",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.7",
+    "Numbers and counting to 100",
+    "Count on to find the next number; within 100",
+    "MATH-K-513",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.8",
+    "Numbers and counting to 100",
+    "Count forward; within 100",
+    "MATH-K-514",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "LL.9",
+    "Numbers and counting to 100",
+    "Sequences; count by ones or tens",
+    "MATH-K-515",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "MM.1",
+    "Patterns",
+    "Color patterns",
+    "MATH-K-520, MATH-K-528, MATH-K-530",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "MM.2",
+    "Patterns",
+    "Size patterns",
+    "MATH-K-521, MATH-K-529, MATH-K-531",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "MM.3",
+    "Patterns",
+    "Shape patterns",
+    "MATH-K-522, MATH-K-532",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "MM.4",
+    "Patterns",
+    "Find the next shape in a pattern",
+    "MATH-K-523",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "MM.5",
+    "Patterns",
+    "Complete a pattern",
+    "MATH-K-524",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "MM.6",
+    "Patterns",
+    "Growing patterns",
+    "MATH-K-525",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "MM.7",
+    "Patterns",
+    "Find the next shape in a growing pattern",
+    "MATH-K-526",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "MM.8",
+    "Patterns",
+    "Find the next row in a growing pattern",
+    "MATH-K-527",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "NN.1",
+    "Positions",
+    "In front of and behind",
+    "MATH-K-533, MATH-K-540, MATH-K-543",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "NN.2",
+    "Positions",
+    "Inside and outside",
+    "MATH-K-534, MATH-K-541, MATH-K-544",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "NN.3",
+    "Positions",
+    "Above and below",
+    "MATH-K-535, MATH-K-542, MATH-K-545",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "NN.4",
+    "Positions",
+    "Beside and next to",
+    "MATH-K-536",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "NN.5",
+    "Positions",
+    "Left, middle, and right",
+    "MATH-K-537",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "NN.6",
+    "Positions",
+    "Top, middle, and bottom",
+    "MATH-K-538",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "NN.7",
+    "Positions",
+    "Location in a grid",
+    "MATH-K-539",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "OO.1",
+    "Same and different",
+    "Different",
+    "MATH-K-546, MATH-K-549, MATH-K-552, MATH-K-555, MATH-K-556",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "OO.2",
+    "Same and different",
+    "Same",
+    "MATH-K-547, MATH-K-550, MATH-K-553, MATH-K-557",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "OO.3",
+    "Same and different",
+    "Same and different",
+    "MATH-K-548, MATH-K-551, MATH-K-554, MATH-K-558",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.1",
+    "Two-dimensional shapes",
+    "Circles",
+    "MATH-K-559, MATH-K-569",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.2",
+    "Two-dimensional shapes",
+    "Triangles",
+    "MATH-K-560, MATH-K-570",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.3",
+    "Two-dimensional shapes",
+    "Rectangles",
+    "MATH-K-561, MATH-K-571",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.4",
+    "Two-dimensional shapes",
+    "Squares",
+    "MATH-K-562",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.5",
+    "Two-dimensional shapes",
+    "Hexagons",
+    "MATH-K-563",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.6",
+    "Two-dimensional shapes",
+    "Find flat shapes",
+    "MATH-K-564",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.7",
+    "Two-dimensional shapes",
+    "Name the flat shape",
+    "MATH-K-565",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.8",
+    "Two-dimensional shapes",
+    "Sort circles",
+    "MATH-K-566",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.9",
+    "Two-dimensional shapes",
+    "Sort flat shapes",
+    "MATH-K-567",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "PP.10",
+    "Two-dimensional shapes",
+    "Compose simple flat shapes",
+    "MATH-K-568",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "QQ.1",
+    "Two-dimensional shape attributes",
+    "Curved parts",
+    "MATH-K-572, MATH-K-580, MATH-K-582",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "QQ.2",
+    "Two-dimensional shape attributes",
+    "Count corners",
+    "MATH-K-573, MATH-K-581, MATH-K-583",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "QQ.3",
+    "Two-dimensional shape attributes",
+    "Square corners",
+    "MATH-K-574, MATH-K-584",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "QQ.4",
+    "Two-dimensional shape attributes",
+    "Count sides",
+    "MATH-K-575",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "QQ.5",
+    "Two-dimensional shape attributes",
+    "Equal sides",
+    "MATH-K-576",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "QQ.6",
+    "Two-dimensional shape attributes",
+    "Count sides and corners",
+    "MATH-K-577",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "QQ.7",
+    "Two-dimensional shape attributes",
+    "Judge sides and corners",
+    "MATH-K-578",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "QQ.8",
+    "Two-dimensional shape attributes",
+    "Judge shapes using attributes",
+    "MATH-K-579",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.1",
+    "Three-dimensional shapes",
+    "Flat and solid shapes",
+    "MATH-K-585, MATH-K-596",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.2",
+    "Three-dimensional shapes",
+    "Describe solid shapes",
+    "MATH-K-586, MATH-K-597",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.3",
+    "Three-dimensional shapes",
+    "Spheres",
+    "MATH-K-587, MATH-K-598",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.4",
+    "Three-dimensional shapes",
+    "Cubes",
+    "MATH-K-588",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.5",
+    "Three-dimensional shapes",
+    "Cones",
+    "MATH-K-589",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.6",
+    "Three-dimensional shapes",
+    "Cylinders",
+    "MATH-K-590",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.7",
+    "Three-dimensional shapes",
+    "Find solid shapes",
+    "MATH-K-591",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.8",
+    "Three-dimensional shapes",
+    "Name the solid shape",
+    "MATH-K-592",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.9",
+    "Three-dimensional shapes",
+    "Recognise shapes traced from solids",
+    "MATH-K-593",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.10",
+    "Three-dimensional shapes",
+    "Sort solid shapes",
+    "MATH-K-594",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "RR.11",
+    "Three-dimensional shapes",
+    "Build and take apart solid shapes",
+    "MATH-K-595",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "SS.1",
+    "Shapes in the real world",
+    "Two-dimensional shapes in the real world",
+    "MATH-K-599, MATH-K-604, MATH-K-609",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "SS.2",
+    "Shapes in the real world",
+    "Three-dimensional shapes in the real world I",
+    "MATH-K-600, MATH-K-605, MATH-K-610",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "SS.3",
+    "Shapes in the real world",
+    "Three-dimensional shapes in the real world II",
+    "MATH-K-601, MATH-K-606, MATH-K-611",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "SS.4",
+    "Shapes in the real world",
+    "Three-dimensional shapes; above and below",
+    "MATH-K-602, MATH-K-607",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "SS.5",
+    "Shapes in the real world",
+    "Three-dimensional shapes; beside and next to",
+    "MATH-K-603, MATH-K-608",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "TT.1",
+    "Fractions of shapes",
+    "Equal parts",
+    "MATH-K-612, MATH-K-614, MATH-K-616, MATH-K-618, MATH-K-620, MATH-K-622, MATH-K-624",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "TT.2",
+    "Fractions of shapes",
+    "Recognise halves",
+    "MATH-K-613, MATH-K-615, MATH-K-617, MATH-K-619, MATH-K-621, MATH-K-623",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "UU.1",
+    "Classifying and sorting",
+    "Classify shapes by color",
+    "MATH-K-625, MATH-K-633, MATH-K-635",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "UU.2",
+    "Classifying and sorting",
+    "Classify and sort by color",
+    "MATH-K-626, MATH-K-634, MATH-K-636",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "UU.3",
+    "Classifying and sorting",
+    "Classify and sort by shape",
+    "MATH-K-627, MATH-K-637",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "UU.4",
+    "Classifying and sorting",
+    "Classify and sort",
+    "MATH-K-628",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "UU.5",
+    "Classifying and sorting",
+    "Classify, sort, and count",
+    "MATH-K-629",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "UU.6",
+    "Classifying and sorting",
+    "Sort, count, and compare",
+    "MATH-K-630",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "UU.7",
+    "Classifying and sorting",
+    "Determine shape quantities in a Venn diagram",
+    "MATH-K-631",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "UU.8",
+    "Classifying and sorting",
+    "Sort shapes into a Venn diagram",
+    "MATH-K-632",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "VV.1",
+    "Data and graphs",
+    "Which picture graph is correct?",
+    "MATH-K-638, MATH-K-641, MATH-K-644, MATH-K-647, MATH-K-648",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "VV.2",
+    "Data and graphs",
+    "Make picture graphs",
+    "MATH-K-639, MATH-K-642, MATH-K-645, MATH-K-649",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "VV.3",
+    "Data and graphs",
+    "Interpret picture graphs",
+    "MATH-K-640, MATH-K-643, MATH-K-646, MATH-K-650",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.1",
+    "Measurement",
+    "Long and short",
+    "MATH-K-651, MATH-K-664",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.2",
+    "Measurement",
+    "Tall and short",
+    "MATH-K-652, MATH-K-665",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.3",
+    "Measurement",
+    "Wide and narrow",
+    "MATH-K-653, MATH-K-666",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.4",
+    "Measurement",
+    "Light and heavy",
+    "MATH-K-654",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.5",
+    "Measurement",
+    "Holds more or less",
+    "MATH-K-655",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.6",
+    "Measurement",
+    "Covers more or less",
+    "MATH-K-656",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.7",
+    "Measurement",
+    "Judge size, weight, and capacity",
+    "MATH-K-657",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.8",
+    "Measurement",
+    "Should you measure size, weight, or capacity?",
+    "MATH-K-658",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.9",
+    "Measurement",
+    "Measure length with objects",
+    "MATH-K-659",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.10",
+    "Measurement",
+    "Measure length with cubes",
+    "MATH-K-660",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.11",
+    "Measurement",
+    "Build cube trains to measure length",
+    "MATH-K-661",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.12",
+    "Measurement",
+    "Measure height with cubes",
+    "MATH-K-662",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "WW.13",
+    "Measurement",
+    "Build cube trains to measure height",
+    "MATH-K-663",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "XX.1",
+    "Time",
+    "Match analog clocks and times",
+    "MATH-K-667, MATH-K-670, MATH-K-673, MATH-K-676, MATH-K-677",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "XX.2",
+    "Time",
+    "Match analog and digital clocks",
+    "MATH-K-668, MATH-K-671, MATH-K-674, MATH-K-678",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "XX.3",
+    "Time",
+    "Read clocks and write times",
+    "MATH-K-669, MATH-K-672, MATH-K-675, MATH-K-679",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "YY.1",
+    "Money",
+    "Coin names; penny through quarter",
+    "MATH-K-680, MATH-K-686, MATH-K-690",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "YY.2",
+    "Money",
+    "Coin values; penny through quarter",
+    "MATH-K-681, MATH-K-687, MATH-K-691",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "YY.3",
+    "Money",
+    "Count money; pennies only",
+    "MATH-K-682, MATH-K-688, MATH-K-692",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "YY.4",
+    "Money",
+    "Count money; pennies and nickels",
+    "MATH-K-683, MATH-K-689",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "YY.5",
+    "Money",
+    "Count money; pennies through dimes",
+    "MATH-K-684",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "YY.6",
+    "Money",
+    "Judge two groups of coins; pennies through dimes",
+    "MATH-K-685",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "ZZ.1",
+    "Financial literacy",
+    "Ways to earn income",
+    "MATH-K-693, MATH-K-697, MATH-K-701, MATH-K-703",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "ZZ.2",
+    "Financial literacy",
+    "Income and gifts",
+    "MATH-K-694, MATH-K-698, MATH-K-702, MATH-K-704",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "ZZ.3",
+    "Financial literacy",
+    "Skills for a job",
+    "MATH-K-695, MATH-K-699, MATH-K-705",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ],
+  [
+    "ZZ.4",
+    "Financial literacy",
+    "Wants and needs",
+    "MATH-K-696, MATH-K-700",
+    "Implemented",
+    "https://www.ixl.com/math/kindergarten",
+    "2026-10-29"
+  ]
+]

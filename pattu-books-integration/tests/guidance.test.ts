@@ -1,0 +1,15 @@
+import {describe,it,expect} from 'vitest';
+import {advanceDemo,advanceGuide,checkedGuide,completeFirstSet,firstQuestions,newGuide,smartHint,validGuide} from '../src/features/learn/guidance';
+import {localProgress} from '../src/features/learn/repositories';
+import type {Activity,Question,Session} from '../src/features/learn/model';
+const question={id:'q',mode:'choice',prompt:'Find two.',answer:2,options:[1,2,3],hint:'Look again.'} as Question;
+const activity={questions:[{mode:'rounds',cards:[question,{...question,id:'q2'}]},question]} as Activity;
+const session:Session={version:1,contentVersion:'v1',step:0,answer:null,checked:false,attempts:0,completed:false,updatedAt:0};
+describe('first-question guidance',()=>{
+ it('requires correct answers for each part of a first set',()=>{const g={...newGuide(),stage:'practice' as const,answer:1};const wrong=checkedGuide(g,question);expect(wrong.checked).toBe(false);expect(wrong.mistakes).toBe(1);expect(advanceGuide(wrong,2)).toEqual(wrong);const right=checkedGuide({...wrong,answer:2},question);const next=advanceGuide(right,2);expect(next.questionIndex).toBe(1);expect(next.stage).toBe('practice');expect(next.checked).toBe(false);expect(advanceGuide(checkedGuide({...next,answer:2},question),2).stage).toBe('success');});
+ it('credits the whole first set without overwriting later practice or completion',()=>{expect(firstQuestions(activity)).toHaveLength(2);const guide={...newGuide(),stage:'success' as const};expect(completeFirstSet(session,activity,guide)).toMatchObject({step:2,completed:false});expect(completeFirstSet({...session,step:3,completed:true},activity,guide)).toEqual({tutorial:guide});});
+ it('checks zero counters correctly and escalates hints',()=>{expect(checkedGuide({...newGuide(),stage:'practice'},{...question,mode:'build',answer:0}).checked).toBe(true);expect(smartHint(question,2)).toContain('The answer is 2');});
+ it('persists tutorial stage, answer and position; safely drops malformed guide data',()=>{const values=new Map<string,string>();const storage={getItem:(key:string)=>values.get(key)||null,setItem:(key:string,value:string)=>values.set(key,value),removeItem:(key:string)=>values.delete(key)} as Storage;const guide={...newGuide(),stage:'practice' as const,answer:2};const repo=localProgress(()=>storage);repo.save('MATH-K-001',{...session,tutorial:guide});expect(localProgress(()=>storage).read('MATH-K-001','v1')?.tutorial).toEqual(guide);expect(validGuide({...guide,questionIndex:-1})).toBe(false);repo.save('MATH-K-001',{...session,tutorial:{...guide,questionIndex:-1}});expect(repo.read('MATH-K-001','v1')?.tutorial).toBeUndefined();});
+});
+
+it('one activation advances each demonstration instruction, including restored step two',()=>{const g={...newGuide(),stage:'demo' as const};expect(advanceDemo(g,3).demoStep).toBe(1);const second=advanceDemo({...g,demoStep:1},3);expect(second.demoStep).toBe(2);expect(advanceDemo(second,3).stage).toBe('practice');expect(advanceDemo({...g,demoStep:99},3).stage).toBe('practice');});

@@ -1,0 +1,22 @@
+node_modules/
+test-results/
+playwright-report/
+coverage/
+outputs/
+*.log
+.env
+.env.*
+!.env.example
+.openai/
+# Keep dist/index.html and dist/assets: they are editable Books source.
+/dist/learn/
+/public/learn/catalogue-summary.json
+/public/learn/topic-assets/
+/doc/reports/content-validation.json
+/doc/reports/playwright.json
+/doc/reports/previous-playwright.json
+/doc/reports/vitest.json
+/doc/reports/verification-summary.json
+/doc/reports/import.json
+/scripts/apply-integration.ps1
+/scripts/package.mjs
