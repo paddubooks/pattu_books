@@ -78,3 +78,5 @@ Books uses sample catalogue/prices and unset ordering destinations. Educational 
 ## Documentation and contributions
 
 Start with the [documentation index](doc/README.md), [architecture](doc/architecture.md), [contributing guide](../CONTRIBUTING.md), and [GitHub setup](../GITHUB_SETUP.md). Font licences are included under public/learn/fonts. No general open-source licence has been selected for the application or educational content.
+
+Mobile layouts use a compact Books header, full-width pre-order and Learn entry buttons, and a touch-enabled book carousel. Mobile regression checks cover 320, 360, 390 and 430px widths.

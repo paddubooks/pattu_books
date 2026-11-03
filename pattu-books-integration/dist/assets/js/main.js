@@ -56,6 +56,19 @@ grid.addEventListener('keydown',event=>{
  if(!gallery||!gallery.querySelector('.gallery-controls')||!['ArrowLeft','ArrowRight'].includes(event.key))return;
  event.preventDefault();showSlide(gallery,Number(gallery.dataset.slide)+(event.key==='ArrowRight'?1:-1));
 });
+let galleryTouch=null;
+grid.addEventListener('touchstart',event=>{
+ const gallery=event.target.closest('.book-slides')?.closest('.book-gallery');
+ galleryTouch=gallery&&gallery.querySelector('.gallery-controls')&&event.touches.length===1?{gallery,x:event.touches[0].clientX,y:event.touches[0].clientY}:null;
+},{passive:true});
+grid.addEventListener('touchend',event=>{
+ if(!galleryTouch)return;
+ const {gallery,x,y}=galleryTouch;galleryTouch=null;
+ const touch=event.changedTouches[0];if(!touch)return;
+ const dx=touch.clientX-x,dy=touch.clientY-y;
+ if(Math.abs(dx)>45&&Math.abs(dx)>Math.abs(dy)*1.5)showSlide(gallery,Number(gallery.dataset.slide)+(dx<0?1:-1));
+},{passive:true});
+grid.addEventListener('touchcancel',()=>{galleryTouch=null;},{passive:true});
 function render(filter='all') {
  const visible=books.filter(book=>filter==='all'||book.types.includes(filter));
  grid.innerHTML=visible.map(book=>`<article class="book-feature">

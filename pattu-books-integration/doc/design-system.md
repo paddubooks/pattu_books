@@ -46,3 +46,8 @@ The Books reading promise uses a lavender callout, a yellow book illustration, a
 
 ### Pre-order update
 Nila at Paatti’s Home is not released yet. It appears in both Storybooks and Activity books, with a Pre-order now button. Book and contact buttons open WhatsApp at +94 70 185 6427 (wa.me/94701856427), with pre-filled enquiry text. No message is sent automatically. Price and release date are not specified.
+
+
+## 3 November 2026 — mobile usability review
+
+Compact two-row Books navigation replaces the three-row mobile header. The duplicate header book CTA is hidden on phones; the hero retains Explore our books. Visible navigation targets remain at least 44px. Pre-order and Learn entry buttons use the available mobile width. The Learn curiosity card has reduced spacing and illustration size. Book carousel swipes require a horizontal gesture over 45px; vertical gestures do not advance the image, and arrows/dots remain available. Learning content and progress behavior are unchanged.

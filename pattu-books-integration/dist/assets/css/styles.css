@@ -550,3 +550,21 @@ header{background:#FFE292;box-shadow:0 0 0 100vmax #FFE292;clip-path:inset(0 -10
 
 /* Manual carousel: controls appear only when a book has multiple images. */
 .book-slides{aspect-ratio:4/3;display:grid;align-items:center}.featured-cover[hidden]{display:none}.gallery-controls{display:flex;align-items:center;justify-content:center;gap:12px;padding:14px 20px;border-top:1px solid #dfd5c7}.gallery-arrow{display:grid;place-items:center;width:44px;height:44px;min-height:44px;min-width:44px;border:1px solid #cdbed3;border-radius:50%;background:#fffaf0;color:var(--purple);font-size:22px}.gallery-arrow:hover{background:var(--lavender)}.gallery-dots{display:flex;gap:0}.gallery-dot{display:grid;place-items:center;min-width:44px;min-height:44px;padding:0;border:0;background:transparent}.gallery-dot span{width:8px;height:8px;border-radius:50%;background:#a69aab}.gallery-dot[aria-pressed=true] span{width:24px;border-radius:8px;background:var(--purple)}.gallery-status{font-size:12px;color:var(--muted);min-width:32px;text-align:center}@media(max-width:380px){.gallery-controls{gap:6px;padding:12px}}
+
+/* Mobile navigation keeps the book discovery action in the hero. */
+@media(max-width:700px){
+ header{justify-content:space-between;gap:12px;padding:14px 16px 8px;min-height:0}
+ header .logo{min-height:48px;font-size:31px;flex-shrink:0}
+ header .logo-small{bottom:0;font-size:7px}
+ header .header-actions{width:auto;margin-left:auto;gap:0}
+ header .header-actions .books-action{display:none}
+ header .header-actions .button{flex:none;min-height:44px;padding:10px 14px;gap:10px;font-size:12px;border-radius:12px;white-space:nowrap}
+ header nav{order:3;width:100%;justify-content:space-between;flex-wrap:nowrap;gap:4px;border-top:1px solid #d8bd73;padding-top:4px;font-size:11px}
+ header nav a{justify-content:center;min-height:44px}
+ .hero{padding-top:28px}.hero h1{letter-spacing:-1.3px}.hero p{padding:0 8px;line-height:1.7}
+ .hero>.button{min-width:210px;justify-content:center}
+ .books.section{padding:40px 16px}.books .section-top h2{font-size:34px;letter-spacing:-1px}
+ .book-details{padding:24px}.book-details .order{width:100%;justify-content:center;min-height:50px}
+ .book-details .description{line-height:1.7}.contact .button{min-width:230px;justify-content:center}
+ .book-slides{touch-action:pan-y}
+}

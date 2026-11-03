@@ -58,3 +58,8 @@ Nila at Paatti’s Home is not released yet. It appears in both Storybooks and A
 Verification: content validation, all 15 unit tests, all 45 browser tests, and all 3 GitHub Pages tests passed. The Pages build was verified with /paddu_books and 759 direct routes. Updated the obsolete four-sample-book hosting assertion to cover the single pre-order title, dual categories and WhatsApp destinations.
 
 Book images now use a manual carousel. Previous/next buttons, image dots, keyboard arrows and a live image count appear only when multiple images exist. Add images to the book’s images array; a single image has no carousel controls.
+
+
+## 3 November 2026 — mobile usability review
+
+Compact two-row Books navigation replaces the three-row mobile header. The duplicate header book CTA is hidden on phones; the hero retains Explore our books. Visible navigation targets remain at least 44px. Pre-order and Learn entry buttons use the available mobile width. The Learn curiosity card has reduced spacing and illustration size. Book carousel swipes require a horizontal gesture over 45px; vertical gestures do not advance the image, and arrows/dots remain available. Learning content and progress behavior are unchanged.
