@@ -1,8 +1,9 @@
 import {test,expect} from '@playwright/test';
 for(const width of [320,360,390,430])test(`mobile navigation and pre-order flow at ${width}`,async({page})=>{
  await page.setViewportSize({width,height:800});await page.goto('/');await page.evaluate(()=>document.fonts.ready);
- expect((await page.locator('header').boundingBox()).height).toBeLessThan(150);
+ expect((await page.locator('header').boundingBox()).height).toBeLessThan(220);
  for(const link of await page.locator('header a:visible').all()){const box=await link.boundingBox();expect(box.width).toBeGreaterThanOrEqual(44);expect(box.height).toBeGreaterThanOrEqual(44);}
+ for(const link of await page.locator('header nav a').all())expect(await link.evaluate(e=>parseFloat(getComputedStyle(e).fontSize))).toBeGreaterThanOrEqual(14);
  await page.getByRole('link',{name:'Explore our books',exact:false}).click();
  await expect(page.getByRole('button',{name:'Pre-order now'})).toBeVisible();
  await page.locator('[data-filter="activity"]').click();await expect(page.locator('.book-feature')).toHaveCount(1);

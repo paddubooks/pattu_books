@@ -568,3 +568,23 @@ header{background:#FFE292;box-shadow:0 0 0 100vmax #FFE292;clip-path:inset(0 -10
  .book-details .description{line-height:1.7}.contact .button{min-width:230px;justify-content:center}
  .book-slides{touch-action:pan-y}
 }
+
+/* Readable type on phones and desktops; allow content to wrap naturally. */
+body{font-size:16px}
+header nav{font-size:15px}
+.button,.button.small,header .header-actions .button,.book-details .order{font-size:16px;line-height:1.4}
+.hero p,.about-copy p,.contact p,.book-details .description,dialog p{font-size:16px;line-height:1.7}
+.eyebrow,.hero .eyebrow,.book-details .book-type{font-size:12px;line-height:1.5;letter-spacing:1.5px}
+.filters button{font-size:15px;line-height:1.4}
+.collection-note,.reading-note,.discovery-list,.book-tags span,.gallery-status,.motion-toggle,.contact .contact-status,.text-link,footer,.ribbon{font-size:14px;line-height:1.6}
+.books .section-top .reading-journey{font-size:16px}
+.books .section-top .reading-joy-note{font-size:14px;line-height:1.6}
+@media(max-width:700px){
+ header nav{font-size:14px;flex-wrap:wrap;justify-content:center;gap:4px 14px}
+ header .header-actions .button{font-size:15px;padding:10px 12px}
+ header{gap:10px}.header-actions{flex-shrink:0}
+ .hero .eyebrow{padding:0 16px;font-size:12px;letter-spacing:1px}
+ .filters{gap:8px}.filters button{padding:10px 14px}
+ .ribbon{gap:12px 20px}.reading-joy{gap:12px}
+}
+@media(max-width:360px){header{padding-left:12px;padding-right:12px}header .logo{font-size:29px}header .header-actions .button{gap:6px;padding:10px}}

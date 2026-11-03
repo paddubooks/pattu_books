@@ -87,3 +87,23 @@ progress{height:12px;border:1px solid var(--boundary);border-radius:12px;overflo
 }
 
 @media(max-width:600px) and (max-height:700px){.hero{gap:12px}.curiosity-card{padding:14px 16px;border-radius:20px}.hero .curiosity-label,.hero .curiosity-footer{display:none}.curiosity-card h2{font-size:20px;line-height:1.15;letter-spacing:-.5px}.curiosity-card h2 br{display:none}.discovery-tiles{margin:12px 0 0;gap:10px}.discovery-tiles>div{padding:6px 8px;border-radius:12px}.number-tile>span{font-size:27px;line-height:34px}.shape-tile svg{height:34px}.discovery-tiles small{font-size:9px;margin-top:3px}}
+
+/* Typography prioritises reading comfort over fitting all content above the fold. */
+.hero p,.page-intro p,.catalogue-intro p,.subject-card p,.grownup{font-size:16px;line-height:1.65}
+.site-header nav{font-size:14px}
+button,.button,.guide-actions button,.actions button,.progress-label button,.guide-restart{font-size:16px;line-height:1.4}
+input:not([type=checkbox]),select{font-size:16px}
+.eyebrow,.hero .eyebrow,.hero .curiosity-label,.catalogue-intro .eyebrow,.activity-page .activity-card>.eyebrow{font-size:12px;line-height:1.5;letter-spacing:1.2px}
+.fine,.hero .fine,.breadcrumbs,.stats,.catalogue-intro .stats,.badge,.filter-panel label,.catalogue-heading,.topic-heading p,.topic-card small,.topic-card .status,.progress-label,.guide-progress,.activity-page .activity-heading,.download p,footer{font-size:14px;line-height:1.5}
+.topic-card li a{font-size:16px;line-height:1.5}
+.discovery-tiles small{font-size:13px;line-height:1.45}
+.hero .curiosity-footer{font-size:14px;line-height:1.5}
+.question-view .instruction,.activity-page .question-view .instruction{font-size:17px;line-height:1.6}
+.match-grid legend,.sort-rows legend{font-size:17px;line-height:1.5}
+@media(max-width:600px){
+ .site-header{flex-wrap:wrap;gap:4px 12px}.site-header nav{flex-wrap:wrap;gap:8px 12px;justify-content:flex-end;margin-left:auto}
+ .filter-panel{grid-template-columns:minmax(0,1fr)}.filter-panel label,.filter-panel .check-label{width:100%;line-height:1.5}
+ .progress-label{flex-wrap:wrap}.progress-label button{max-width:none}
+ .guide-actions button{flex-basis:100px}
+ .discovery-tiles small{font-size:12px}.hero .curiosity-footer{font-size:14px}
+}

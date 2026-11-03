@@ -51,3 +51,7 @@ Nila at Paatti’s Home is not released yet. It appears in both Storybooks and A
 ## 3 November 2026 — mobile usability review
 
 Compact two-row Books navigation replaces the three-row mobile header. The duplicate header book CTA is hidden on phones; the hero retains Explore our books. Visible navigation targets remain at least 44px. Pre-order and Learn entry buttons use the available mobile width. The Learn curiosity card has reduced spacing and illustration size. Book carousel swipes require a horizontal gesture over 45px; vertical gestures do not advance the image, and arrows/dots remain available. Learning content and progress behavior are unchanged.
+
+
+### Readable typography — 3 November 2026
+Books and Learn use body text of at least 16px, 14–15px navigation, 15–16px action labels, 12–14px supporting labels, and 17px learning instructions. Existing headline sizes and larger answer choices are preserved. Mobile navigation and filters wrap rather than shrinking text. Small logo lettering remains part of the brand artwork. Viewport tests verify readable text and reachable controls; vertical scrolling is allowed instead of forcing all opening content into one screen.

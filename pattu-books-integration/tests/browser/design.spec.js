@@ -9,6 +9,7 @@ for(const width of [320,390,768,1365])test(`redesign layout, targets and fonts a
   await page.goto(url);await page.evaluate(()=>document.fonts.ready);
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
   expect(await page.evaluate(()=>document.fonts.check('700 16px Nunito'))).toBe(true);
+  for(const text of await page.locator(name==='books'?'.hero p,.book-details .description':name==='learn'?'.hero>div:first-child>p:not(.eyebrow):not(.fine)':'.topic-card li a').all()){expect(await text.evaluate(e=>parseFloat(getComputedStyle(e).fontSize))).toBeGreaterThanOrEqual(16);}
   const primary=page.locator('a.button:visible,button:visible');
   for(const control of await primary.all()){const box=await control.boundingBox();expect(box.height).toBeGreaterThanOrEqual(44);expect(box.width).toBeGreaterThanOrEqual(44);}
   await page.screenshot({path:`outputs/previews/redesign-${width}-${name}.png`});

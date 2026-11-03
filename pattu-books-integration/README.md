@@ -80,3 +80,7 @@ Books uses sample catalogue/prices and unset ordering destinations. Educational 
 Start with the [documentation index](doc/README.md), [architecture](doc/architecture.md), [contributing guide](../CONTRIBUTING.md), and [GitHub setup](../GITHUB_SETUP.md). Font licences are included under public/learn/fonts. No general open-source licence has been selected for the application or educational content.
 
 Mobile layouts use a compact Books header, full-width pre-order and Learn entry buttons, and a touch-enabled book carousel. Mobile regression checks cover 320, 360, 390 and 430px widths.
+
+
+### Readable typography — 3 November 2026
+Books and Learn use body text of at least 16px, 14–15px navigation, 15–16px action labels, 12–14px supporting labels, and 17px learning instructions. Existing headline sizes and larger answer choices are preserved. Mobile navigation and filters wrap rather than shrinking text. Small logo lettering remains part of the brand artwork. Viewport tests verify readable text and reachable controls; vertical scrolling is allowed instead of forcing all opening content into one screen.

@@ -1,10 +1,10 @@
 import {test,expect} from '@playwright/test';
 const url='/learn/subjects/maths/grades/kindergarten/topics/numbers-to-3/activities/MATH-K-004';
-for(const [width,height] of [[320,640],[390,844],[768,1024],[1365,768],[1705,912]])test(`audio activity controls fit without scrolling ${width}`,async({page})=>{
+for(const [width,height] of [[320,640],[390,844],[768,1024],[1365,768],[1705,912]])test(`audio activity controls remain reachable ${width}`,async({page})=>{
  await page.setViewportSize({width,height});await page.goto(url);await page.getByRole('button',{name:'Skip guide'}).click();await page.evaluate(()=>document.fonts.ready);
- expect(await page.evaluate(()=>scrollY)).toBe(0);
+
  for(const control of await page.locator('.question-view button,.actions button').all()){
-  const box=await control.boundingBox();expect(box.y).toBeGreaterThanOrEqual(0);expect(box.y+box.height).toBeLessThanOrEqual(height);expect(box.height).toBeGreaterThanOrEqual(44);
+  await control.scrollIntoViewIfNeeded();const box=await control.boundingBox();expect(box.y).toBeGreaterThanOrEqual(0);expect(box.y+box.height).toBeLessThanOrEqual(height);expect(box.height).toBeGreaterThanOrEqual(44);
  }
  expect(await page.evaluate(()=>document.documentElement.scrollWidth)).toBeLessThanOrEqual(width);
  await page.screenshot({path:`outputs/previews/activity-fit-${width}.png`});

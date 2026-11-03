@@ -22,13 +22,13 @@ for(const [width,height] of [[320,640],[390,844],[768,1024],[1365,900]])test(`si
  await page.getByRole('button',{name:'Check answer',exact:true}).click();await expect(dialog).toContainText('Take your time. Look again and try once more.');await page.screenshot({animations:'disabled',path:`outputs/previews/popup-${width}-retry.png`});
  await page.keyboard.press('Escape');await expect(dialog).toHaveCount(0);await expect(page.getByText('Question 2 of 12',{exact:true})).toBeVisible();
 });
-for(const [width,height] of [[320,640],[390,844],[768,1024],[1365,900]])test(`complete opening content sections ${width}`,async({page})=>{
+for(const [width,height] of [[320,640],[390,844],[768,1024],[1365,900]])test(`readable opening content and reachable links ${width}`,async({page})=>{
  await page.setViewportSize({width,height});
  for(const [name,path,selector] of [['home','/learn/','.hero'],['subject','/learn/subjects/maths','.page-intro'],['catalogue',root,'.catalogue-intro'],['topic',`${root}/topics/${a.topicSlug}`,'.catalogue-intro'],['guide',url,'.guide-heading']]){
   await page.goto(path);await expect(page.locator(selector)).toBeVisible();await page.evaluate(()=>document.fonts.ready);
-  const box=await page.locator(selector).boundingBox();expect(box.y).toBeGreaterThanOrEqual(0);expect(box.y+box.height,`${name} opening section bottom`).toBeLessThanOrEqual(height);
+  const box=await page.locator(selector).boundingBox();expect(box.y).toBeGreaterThanOrEqual(0);expect(box.width).toBeLessThanOrEqual(width);
   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
-  if(name==='catalogue'){const first=await page.locator('.topic-card li a').first().boundingBox();expect(first.y+first.height).toBeLessThanOrEqual(height);}
+  if(name==='catalogue'){const link=page.locator('.topic-card li a').first();await link.scrollIntoViewIfNeeded();await expect(link).toBeInViewport();expect(await link.evaluate(e=>parseFloat(getComputedStyle(e).fontSize))).toBeGreaterThanOrEqual(16);}
   await page.screenshot({animations:'disabled',path:`outputs/previews/compact-${width}-${name}.png`});
  }
 });
